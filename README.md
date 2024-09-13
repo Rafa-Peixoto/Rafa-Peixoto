@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rafa-Peixoto
-- 👀 I’m interested in coding :)
-- 🌱 I’m currently learning Engenharia Informática in Universidade do Minho
-- 📫 How to reach me r4f4elpeixoto@gmail.com
+ 
+- 🌱 Currently learning Engenharia Informática in Universidade do Minho
+- 📫 How to reach me rafaelvcpeixoto@gmail.com
 
 <!---
 Rafa-Peixoto/Rafa-Peixoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
