@@ -2,7 +2,7 @@
 
 🔍 Looking for new opportunities in software engineering and web development. I'm eager to contribute to impactful projects and work in dynamic, forward-thinking teams.
 
-📚 Skills: Python, Java, JavaScript, C, HTML/CSS, SQL, Git,Vue, ASP.NET, Express.js and a continuous learner of new technologies.
+📚 Skills: JavaScript, C, Haskell, Python, Java, HTML/CSS, SQL, Git, Vue, ASP.NET, Express.js and a continuous learner of new technologies.
 
 💡 Projects: Check out my repositories to see some of the work I've been doing.
 
