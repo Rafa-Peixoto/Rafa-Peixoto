@@ -1,5 +1,5 @@
  
-- 🌱 Currently learning Engenharia Informática in Universidade do Minho
+- 🌱 Currently finishing my bachelor's degree in Engenharia Informática at Universidade do Minho
 - 📫 How to reach me rafaelvcpeixoto@gmail.com
 
 <!---
