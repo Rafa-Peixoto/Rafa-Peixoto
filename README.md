@@ -1,4 +1,4 @@
-👨‍💻 Software Engineer | Final year student at Universidade do Minho, majoring in Informatics Engineering. Passionate about technology, software development, and solving real-world problems through innovative solutions.
+👨‍💻 Software Engineer | Final year student at Universidade do Minho, majoring in Software Engineering. Passionate about technology, software development, and solving real-world problems through innovative solutions.
 
 🔍 Looking for new opportunities in software engineering and web development. I'm eager to contribute to impactful projects and work in dynamic, forward-thinking teams.
 
